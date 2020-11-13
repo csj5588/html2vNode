@@ -16,6 +16,13 @@
     "@rollup/plugin-node-resolve": "^7.0.0",
     "rollup": "^1.29.0"
   },
+  "keywords": [
+    "html",
+    "html2vNode",
+    "vNode"
+  ],
+  "author": "cuishijie",
+  "license": "ISC",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
