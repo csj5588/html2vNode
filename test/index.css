@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#container{
+  width: 100%;
+  background: #ccc;
+  text-align: center;
+  padding: 15px;
+}
+
+#container p{
+  padding-bottom: 10px;
+}
+
+#container .box{
+  display: flex;
+}
+
+#container .box .left,
+#container .box .middle,
+#container .box .right{
+  min-height: 200px;
+  margin: 0 10px;
+  border: 1px solid #000;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
