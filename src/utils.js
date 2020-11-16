@@ -40,7 +40,6 @@ var _isEmpty = function (el) {
 
 var _for = _curry(function (context, fn, xs) {
   var container = []
-  // console.log(xs)
   for (var i = 0; i < xs.length; i++) {
     var result = fn.bind(context)(xs[i], i);
     container.push(result)
