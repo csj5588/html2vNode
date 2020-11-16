@@ -45,6 +45,7 @@ var cssS = function(_node, vNode) {
 
   var transFlexNoBetween = function(node) {
     vNode.setPropsStyle({ 'flex-direction': 'column' })
+    // 业务场景扩展
   }
 
   handleLayoutType(_node);

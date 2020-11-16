@@ -184,4 +184,12 @@ var html2vNode = (function () {
 
 		return curNode
 	}
+
+	// implement v ss
+  var root = document.getElementById('container');
+  var body = document.body;
+  var tree = new vTree(root);
+  var vv = tree.getVTree();
+  console.log(vv);
+  body.appendChild(vv.render());
 })();
