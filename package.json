@@ -1,6 +1,6 @@
 {
   "name": "html2vnode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/how-long-till-lunch.cjs.js",
   "module": "dist/how-long-till-lunch.esm.js",
   "browser": "dist/how-long-till-lunch.umd.js",
