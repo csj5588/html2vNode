@@ -21,7 +21,7 @@
     "html2vNode",
     "vNode"
   ],
-  "author": "cuishijie",
+  "author": "1839333350@qq.com",
   "license": "ISC",
   "scripts": {
     "build": "rollup -c",
