@@ -9,7 +9,7 @@ export default [
 	{
 		input: 'src/core.js',
 		output: {
-			name: 'howLongUntilLunch',
+			name: 'html2vnode',
 			file: pkg.browser,
 			format: 'umd'
 		},

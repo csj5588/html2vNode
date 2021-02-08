@@ -83,7 +83,7 @@ vNode.prototype.stanardStyle = function () {
 
 	var pairToObj = function (x) {
 		var strToArray = _.compose(
-			_.split(':'),
+			_.split(': '),
 			_.trim,
 		)
 		var [key, val] = strToArray(x)

@@ -1,9 +1,9 @@
 {
   "name": "html2vnode",
   "version": "1.0.1",
-  "main": "dist/how-long-till-lunch.cjs.js",
-  "module": "dist/how-long-till-lunch.esm.js",
-  "browser": "dist/how-long-till-lunch.umd.js",
+  "main": "dist/html2vnode.cjs.js",
+  "module": "dist/html2vnode.esm.js",
+  "browser": "dist/html2vnode.umd.js",
   "dependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
