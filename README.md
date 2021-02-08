@@ -9,7 +9,7 @@
 with cdn
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/npm/html2vnode@1.0.0/dist/how-long-till-lunch.esm.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/html2vnode@1.0.2/dist/html2vnode.esm.js"></script>
 ```
 
 with npm
